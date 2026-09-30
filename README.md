@@ -46,7 +46,7 @@ Project ini merupakan implementasi CRUD Blog menggunakan Laravel dengan fitur va
 Clone repository:
 
 ```bash
-git clone <URL_REPOSITORY>
+git clone <https://github.com/Arifrebe/TugasWeb-P10-BlogCRUD.git>
 ```
 
 Masuk ke folder project:
